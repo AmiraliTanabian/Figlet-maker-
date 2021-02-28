@@ -1,2 +1,2 @@
-This program can made figlet for you for exmple you Enter "like this" and output is figlet
+This program can made figlet for you for exmple you Enter and output is figlet
                           
